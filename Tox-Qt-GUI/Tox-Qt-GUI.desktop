@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Tox Gui
+Name[he]= Tox Gui
+Comment=A cross-platform front end for ProjectTox Core
+Exec=TOX-Qt-GUI
+Icon=Tox-Qt-GUI.png
+Terminal=false
+Type=Application
+Categories=Network;ChatMessaging
+GenericName=Internet

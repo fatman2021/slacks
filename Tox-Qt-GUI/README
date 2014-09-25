@@ -1,0 +1,6 @@
+A cross-platform front end for ProjectTox Core library,
+written in C++11 with use of Qt5.
+
+NOTE: This is git version and can not be accepted by the
+SlackBuilds.org.
+All requirements relating but we will find there.

@@ -1,0 +1,6 @@
+This icon theme for Gnome provides monochromatic icons for
+panels, toolbars and buttons and colourful squared icons for
+devices, applications, folder, files and Gnome menu items.
+
+NOTE: If you have installed emesene:
+passing variable to the script EMESENE=yes ./faenza.SlackBuild

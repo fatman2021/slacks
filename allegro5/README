@@ -1,0 +1,11 @@
+Allegro 5 is the latest major revision of the library, designed
+to take advantage of modern hardware (e.g. hardware acceleration
+using 3D cards) and operating systems. Although it is not backwards
+compatible with earlier versions, it still occupies the same niche
+and retains a familiar style.
+
+NOTE: Allegro 5 is wholly *incompatible* with Allegro 4 and earlier
+versions, but both may be installed at the same time without conflicts.
+
+Optional Dependencies: OpenAL, physfs, pulseaudio, dumb
+(dumb not yet available from repo)

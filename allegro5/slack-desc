@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+        |-----handy-ruler------------------------------------------------------|
+allegro5: allegro5 (Game programming library)
+allegro5:
+allegro5: Allegro 5 is the latest major revision of the library, designed
+allegro5: to take advantage of modern hardware (e.g. hardware acceleration
+allegro5: using 3D cards) and operating systems. Although it is not backwards
+allegro5: compatible with earlier versions, it still occupies the same niche and
+allegro5: retains a familiar style.
+allegro5:
+allegro5: Homepage: http://alleg.sourceforge.net/
+allegro5:
+allegro5:
