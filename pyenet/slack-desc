@@ -10,7 +10,7 @@ pyenet: pyenet (wrapper for the ENet)
 pyenet:
 pyenet: pyenet is a python wrapper for the ENet library.
 pyenet:
-pyenet: Homepage: http://code.google.com/p/pyenet/
+pyenet: Homepage: https://github.com/aresch/pyenet
 pyenet:
 pyenet:
 pyenet:
