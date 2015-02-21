@@ -27,7 +27,7 @@ TARNAM=enet
 VERSION=${VERSION:-1.3}
 TARVERSION=${TARVERSION:-1.3.12}
 BUILD=${BUILD:-1}
-TAG=${TAG:-_SBo}
+TAG=${TAG:-_dsw}
 
 if [ -z "$ARCH" ]; then
   case "$( uname -m )" in

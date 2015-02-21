@@ -26,7 +26,7 @@ PRGNAM=faenza
 SRCNAM=faenza-icon-theme
 VERSION=${VERSION:-1.3}
 BUILD=${BUILD:-1}
-TAG=${TAG:-_SBo}
+TAG=${TAG:-_dsw}
 
 if [ -z "$ARCH" ]; then
   case "$( uname -m )" in

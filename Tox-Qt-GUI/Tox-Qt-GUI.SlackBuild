@@ -26,7 +26,7 @@ SRCNAM=ProjectTox-Qt-GUI
 PRGNAM=$(echo $SRCNAM | cut -c8-17)
 VERSION=${VERSION:-git}
 BUILD=${BUILD:-1}
-TAG=${TAG:-_SBo}
+TAG=${TAG:-_dsw}
 
 if [ -z "$ARCH" ]; then
   case "$( uname -m )" in
