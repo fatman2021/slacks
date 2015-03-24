@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+     |-----handy-ruler------------------------------------------------------|
+pyusb: PyUSB (USB module for Python)
+pyusb:
+pyusb: The PyUSB module provides for Python easy access to the host 
+pyusb: machine's Universal Serial Bus (USB) system. Until 0.4 version, 
+pyusb: PyUSB used to be a thin wrapper over libusb. With 1.0 version, 
+pyusb: things changed considerably. Now PyUSB is an API rich, backend 
+pyusb: neutral Python USB module easy to use. 
+pyusb:
+pyusb: Homepage: https://github.com/walac/pyusb
+pyusb:
+pyusb:

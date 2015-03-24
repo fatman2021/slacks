@@ -1,0 +1,5 @@
+The PyUSB module provides for Python easy access to the host machine's Universa
+l Serial Bus (USB) system.                                                     
+Until 0.4 version, PyUSB used to be a thin wrapper over libusb. With 1.0 versio
+n, things changed considerably. Now PyUSB is an API rich, backend neutral Pytho
+n USB module easy to use. 
