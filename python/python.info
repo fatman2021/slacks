@@ -1,0 +1,12 @@
+PRGNAM="python"
+VERSION="2.7.9"
+HOMEPAGE=""
+DOWNLOAD="https://www.python.org/ftp/python/2.7.9/Python-2.7.9.tar.xz \
+	  https://docs.python.org/2/archives/python-2.7.9-docs-text.tar.bz2"
+MD5SUM="38d530f7efc373d64a8fb1637e3baaa7 \
+        3fa77d9819d1dcf9e9df1ae6760c8be5"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES=""
+MAINTAINER="Dimitris Zlatanidis"
+EMAIL="d.zlatanidis@gmail.com"
